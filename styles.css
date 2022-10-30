@@ -1,0 +1,96 @@
+
+.bg-round {
+    background-color: white;
+    background-size: cover;
+    height: 40vh;
+    margin: 10px;
+}
+
+.main-heading {
+    font-size: 20px;
+    padding: 15px;
+
+}
+
+.btn-button-lern {
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.background-second {
+    background-color: #c8e4fa;
+}
+
+.main-heading-two {
+    font-size: 15px;
+    padding: 15px;
+
+
+}
+
+.card-three {
+    background-color: #c8e4fa;
+    height: 30vh;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.main-heading-four {
+    font-size: 20px;
+    padding: 15px;
+
+}
+
+.cantainer-card {
+    border-radius: 50px;
+    padding: 15px;
+
+}
+
+.image-row-one {
+    background-color: #3ebd93;
+
+}
+
+.image-row-two {
+    background-color: #e668a7;
+}
+
+.image-row-three {
+    background-color: #a368fc;
+}
+
+.para-three {
+    background-color: #e12d3919;
+    padding: 15px;
+    font-weight: 20px;
+}
+
+.heading-v {
+    font-size: 15px;
+    padding: 15px;
+}
+
+.btn-lasr {
+    margin: 15px;
+}
+
+.paragraph-para {
+    padding: 15px;
+    font-weight: 500;
+
+}
+
+.bg-colour-pic {
+    background-color: #3ebd93;
+    border-radius: 15px;
+}
+
+.bg-colour-pic2 {
+    background-color: #e668a7;
+     border-radius: 15px;
+}
+.bg-colour-pic3 {
+    background-color: #a368fc;
+     border-radius: 15px;
+}
